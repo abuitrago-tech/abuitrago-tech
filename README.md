@@ -1,16 +1,15 @@
-## Hi there 👋
+👨‍💻 Sobre mí :
 
-<!--
-**abuitrago-tech/abuitrago-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploro datos para revelar oportunidades. Administradora en transición a Data Analyst, uniendo procesos, Python y SQL para convertir información en impacto.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy realizando un Bootcamp TripleTen en Data Analyst, estoy muy entusiasmada con todo lo nuevo que he aprendido y poder complementar con mi carrera profesional. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Durante mi proceso de aprendizaje he trabajado con proyectos basados en situaciones reales y ficticias que se asemejan a problemas organizacionales, hoy conozco bases de Lenguajes de programación 💻 Python, SQL, utilizando librerías Pandas, Streamlit, Matplotlib, Searbon y herramientas como Visual Studio.
+
+💓 Aspiró a convertirme en una profesional referente en la conexión entre analítica de datos y gestión empresarial, aportando eficiencia, visión estratégica y soluciones fundamentadas en evidencia. 🕵️
+
+📫 ¿Quieres contactar conmigo? 
+
+📧 abuitrago88.ab@gmail.com
+
+📱 +57 318 398 1308
